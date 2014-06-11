@@ -18,7 +18,7 @@ public class TreballgitHubVicentRibesVictorFerrer {
     public static void main(String[] args) {
         // TODO code application logic here
         
-        System.out.println("Branca master");
+        System.out.println("Branca Vicent");
     }
     
 }

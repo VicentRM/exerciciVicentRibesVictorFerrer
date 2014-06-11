@@ -10,15 +10,6 @@ package treballgithubvicentribesvictorferrer;
  *
  * @author Vicent Ribes
  */
-public class TreballgitHubVicentRibesVictorFerrer {
-
-    /**
-     * @param args the command line arguments
-     */
-    public static void main(String[] args) {
-        // TODO code application logic here
-        
-        System.out.println("Branca prova Branca");
-    }
+public class provaBranca {
     
 }

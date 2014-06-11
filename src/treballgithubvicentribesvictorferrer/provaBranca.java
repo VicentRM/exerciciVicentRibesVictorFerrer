@@ -11,5 +11,8 @@ package treballgithubvicentribesvictorferrer;
  * @author Vicent Ribes
  */
 public class provaBranca {
-    
+    public void imprimir(){
+     System.out.println("Hola Branca");
+    }
 }
+    
